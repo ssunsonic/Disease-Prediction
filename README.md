@@ -1,3 +1,3 @@
-# STA141C_FinalProject
+# Multiclass Disease Classification System
 
 [Final Report](Final_Report.pdf)
